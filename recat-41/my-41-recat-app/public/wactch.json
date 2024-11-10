@@ -1,0 +1,33 @@
+[
+  {
+      "id": 1,
+      "price": 399,
+      "name": "Apple Watch Series 8"
+  },
+  {
+      "id": 2,
+      "price": 850,
+      "name": "Samsung Galaxy Watch 5"
+  },
+  {
+      "id": 3,
+      "price": 750,
+      "name": "Garmin Venu 2"
+  },
+  {
+      "id": 4,
+      "price": 229,
+      "name": "Fitbit Versa 4"
+  },
+  {
+      "id": 5,
+      "price": 350,
+      "name": "Fossil Gen 6"
+  },
+  {
+      "id": 407557,
+      "Joing": 350,
+      "Iqama": 350,
+      "name": "new Eployee"
+  }
+]
